@@ -7,5 +7,6 @@ Implémente un algorithme basé sur le DFS (Dijkstra Find Shortest), de recherch
 
 *Implements an algorithm based on DFS (Dijkstra Find Shortest), searching for the shortest path*
 
+![alt tag](https://github.com/LesConcepteursAssocies/gen-laby/blob/master/screenshot.png "gen-laby")
 
 Have fun ^^
