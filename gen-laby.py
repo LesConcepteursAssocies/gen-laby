@@ -38,6 +38,7 @@ sys.setrecursionlimit(100000)
 screenWidth, screenHeight = (1024, 864)
 # Taille des cases
 c_sz = 8
+# c_sz = 24
 
 # nombre de lignes/colonnes
 maxli = int(screenHeight/c_sz)
